@@ -18,5 +18,5 @@ The final data logger will be:
 
 ## Special Challenges
 
-[ ] Create a new branch named member1-member2-member3 (with your team member names, not member 1 2 or 3) + 5pts
-[ ] Add a wiring diagram for your Barometer (over I2C) and your flash chip (over SPI) + 20pts
+- [ ] Create a new branch named member1-member2-member3 (with your team member names, not member 1 2 or 3) + 5pts
+- [ ] Add a wiring diagram for your Barometer (over I2C) and your flash chip (over SPI) + 20pts
