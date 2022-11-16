@@ -1,1 +1,4 @@
+SPI
 marzogh/SPIMemory@^3.4.0
+Wire
+sparkfun/Sparkfun BMP180@^1.1.2
