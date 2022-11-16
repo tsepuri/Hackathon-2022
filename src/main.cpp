@@ -39,6 +39,10 @@ void loop() {
           Serial.print("Temperature: ");
           Serial.print(T);
           Serial.println(" C");
+
+          Serial.print("Time since power on: ");
+          Serial.print(millis());
+          Serial.print(" milliseconds");
         }
       }
     }
